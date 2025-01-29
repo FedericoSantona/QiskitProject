@@ -12,6 +12,7 @@ qiskit-aer = "^0.16.0"
 qiskit-ibm-runtime = "^0.34.0"
 notebook = "^7.3.2"
 matplotlib = "^3.10.0"
+pylatexenc = "^2.10"
 
 
 
